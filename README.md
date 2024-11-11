@@ -3,9 +3,9 @@
 Welcome to my GitHub profile! Here's a bit about me and what I do:
 
 ## 🚀 About Me
-- 🌱 **Currently learning**: [mention what you're currently learning]
-- 💼 **Currently experiencing**: [mention your current experiences]
-- 🤝 **Currently collaborating**: [mention current projects or collaborations]
+- 🌱 **Currently learning**
+- 💼 **Currently experiencing**
+- 🤝 **Currently collaborating**
 
 ## 🛠️ Tech Stack
 - **Languages**: English
