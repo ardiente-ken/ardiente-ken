@@ -1,6 +1,6 @@
 # 👋 Hello, I'm Geo!
 
-Welcome to my GitHub profile! I'm a dedicated [your profession or passion], passionate about [what you are passionate about]. Here's a bit about me and what I do:
+Welcome to my GitHub profile! Here's a bit about me and what I do:
 
 ## 🚀 About Me
 - 🌱 **Currently learning**: [mention what you're currently learning]
