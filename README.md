@@ -1,11 +1,11 @@
 # 👋 Hello, I'm Geo!
 
-Welcome to my GitHub profile! I'm a dedicated _______, passionate about _________. Here's a bit about me and what I do:
+Welcome to my GitHub profile! I'm a dedicated [your profession or passion], passionate about [what you are passionate about]. Here's a bit about me and what I do:
 
 ## 🚀 About Me
-- 🌱 **Currently learning**
-- 💼 **Currently Experiencing**
-- 🤝 **Currently Collaborating**
+- 🌱 **Currently learning**: [mention what you're currently learning]
+- 💼 **Currently experiencing**: [mention your current experiences]
+- 🤝 **Currently collaborating**: [mention current projects or collaborations]
 
 ## 🛠️ Tech Stack
 - **Languages**: English
@@ -20,6 +20,6 @@ Feel free to explore my repositories and don't hesitate to reach out for collabo
 ## My Streak 🔥🔥🔥
 <div align="center">
   <a href="https://git.io/streak-stats">
-    [![GitHub Streak](https://streak-stats.demolab.com/?user=ardiente-ken)](https://git.io/streak-stats)
+    <img src="https://streak-stats.demolab.com/?user=ardiente-ken&theme=radical" alt="GitHub Streak" />
   </a>
 </div>
