@@ -1,4 +1,4 @@
-# 👋 Hello, I'm Geo!
+# 👋 Hi, I'm Ken!!
 
 Welcome to my GitHub profile! Here's a bit about me and what I do:
 
