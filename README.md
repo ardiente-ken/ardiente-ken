@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Ken!!
+# 👋 Hi, I'm Ken Angelo Ardiente!!
 
 Welcome to my GitHub profile! Here's a bit about me and what I do:
 
