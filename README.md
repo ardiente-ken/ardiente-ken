@@ -15,8 +15,6 @@ Welcome to my GitHub profile! Here's a bit about me and what I do:
 - [Twitter](#)
 - [Email](mailto:#)
 
-Feel free to explore my repositories and don't hesitate to reach out for collaborations or just to chat about tech and development!
-
 ## My Streak 🔥🔥🔥
 <div align="center">
   <a href="https://git.io/streak-stats">
