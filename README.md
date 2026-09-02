@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Ken Angelo Ardiente!!
+# 👋 Hi, I'm Ken!!
 
 Welcome to my GitHub profile! Here's a bit about me and what I do:
 
@@ -11,9 +11,8 @@ Welcome to my GitHub profile! Here's a bit about me and what I do:
 - **Languages**: English
 
 ## 🔗 Let's Connect
-- [LinkedIn](#)
-- [Twitter](#)
-- [Email](mailto:#)
+- [LinkedIn](https://www.linkedin.com/in/ken-angelo-ardiente-1b20a2298/)
+- [Email](mailto:kenangeloardiente@gmail.com)
 
 ## My Streak 🔥🔥🔥
 <div align="center">
