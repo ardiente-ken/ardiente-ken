@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Ken Angelo Ardiente!
+# 👋 Hi, I'm Ken!!!
 
 Welcome to my GitHub profile! I'm a **Full-Stack Developer** based in Cebu City, Philippines, crafting resilient backends, RESTful APIs, enterprise warehouse solutions, and cross-platform mobile apps.
 
@@ -13,7 +13,7 @@ Welcome to my GitHub profile! I'm a **Full-Stack Developer** based in Cebu City,
 - 🛠️ Modernizing web platforms using **Next.js, React, Node.js, ASP.NET Core, and PostgreSQL/MSSQL/MongoDB**.
 - 📟 Developing barcode management and terminal software for legacy hardware (Keyence BT-W85G & Windows platforms).
 - 🔒 **ISC2 Candidate** actively pursuing cybersecurity certifications.
-- 🎵 Outside of code: writing music, releasing tracks as **AKN** on [Spotify](https://open.spotify.com/artist/5UgDVlqSLFEguGSYx82l50), and running.
+- 🎵 Outside of code: writing music, releasing tracks as **AKN** on [Spotify](https://open.spotify.com/artist/5UgDVlqSLFEguGSYx82l50), and pikoooolball!!!!.
 
 ---
 
