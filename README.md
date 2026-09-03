@@ -13,7 +13,9 @@ Welcome to my GitHub profile! I'm a **Software Engineer** specializing in full-s
 - 🛠️ Engineering modern web applications with **Next.js, React, Node.js, and MongoDB**.
 - 📟 Developing legacy barcode management systems and .NET services for Windows CE.
 - 🔒 **ISC2 Candidate** actively pursuing cybersecurity certifications.
-- 🎵 Outside of code: writing music, playing acoustic guitar, and distance running.
+- 🎵 Outside of code: writing music hehe **Check out my spotify as well ;)** [Spotify!!!!]([https://ken-portfolio-ten.vercel.app/](https://open.spotify.com/artist/5UgDVlqSLFEguGSYx82l50))
+
+- 
 
 ---
 
