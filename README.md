@@ -8,7 +8,7 @@ Welcome to my GitHub profile! I'm a **Full-Stack Developer** based in Cebu City,
 
 ### 🚀 About Me
 
-- 💻 **Software Engineer** at NPAX - Cebu Corporation building enterprise applications, IoT integrations, and warehouse management systems.
+- 💻 **Software Engineer** building enterprise applications, IoT integrations, and warehouse management systems.
 - 📱 Engineering cross-platform mobile apps with **Flutter, Dart, and Kotlin**.
 - 🛠️ Modernizing web platforms using **Next.js, React, Node.js, ASP.NET Core, and PostgreSQL/MSSQL/MongoDB**.
 - 📟 Developing barcode management and terminal software for legacy hardware (Keyence BT-W85G & Windows platforms).
