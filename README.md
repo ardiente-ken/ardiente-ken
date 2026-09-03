@@ -13,9 +13,7 @@ Welcome to my GitHub profile! I'm a **Software Engineer** specializing in full-s
 - 🛠️ Engineering modern web applications with **Next.js, React, Node.js, and MongoDB**.
 - 📟 Developing legacy barcode management systems and .NET services for Windows CE.
 - 🔒 **ISC2 Candidate** actively pursuing cybersecurity certifications.
-- 🎵 Outside of code: writing music hehe **Check out my spotify as well ;)** [Spotify!!!!]([https://ken-portfolio-ten.vercel.app/](https://open.spotify.com/artist/5UgDVlqSLFEguGSYx82l50))
-
-- 
+- 🎵 Outside of code: writing music — check out my music on [Spotify](https://open.spotify.com/artist/5UgDVlqSLFEguGSYx82l50)!
 
 ---
 
@@ -42,14 +40,18 @@ Welcome to my GitHub profile! I'm a **Software Engineer** specializing in full-s
 
 ---
 
-### 🔗 Let's Connect
+### 🔥 GitHub Stats
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ken-angelo-ardiente)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:kenangeloardiente@gmail.com)
-
-## My Streak 🔥🔥🔥
 <div align="center">
   <a href="https://git.io/streak-stats">
     <img src="https://streak-stats.demolab.com/?user=ardiente-ken&theme=radical" alt="GitHub Streak" />
   </a>
 </div>
+
+---
+
+### 🔗 Let's Connect
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ken-angelo-ardiente)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:kenangeloardiente@gmail.com)
+[![Spotify](https://img.shields.io/badge/Spotify-1ED760?style=for-the-badge&logo=spotify&logoColor=white)](https://open.spotify.com/artist/5UgDVlqSLFEguGSYx82l50)
